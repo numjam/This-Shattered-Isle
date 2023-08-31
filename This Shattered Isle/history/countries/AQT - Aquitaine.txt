@@ -1,0 +1,43 @@
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = western
+primary_culture = gascon
+religion = catholic
+capital = 174	# Gascogne
+
+1429.11.6 = { #Coronation
+	monarch = {
+		name = "Henry II"
+		dynasty = "Plantagenet"
+		birth_date = 1421.12.6
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1444.1.1 = {
+	leader = {
+		name = "John Talbot"
+		type = general
+		fire = 2
+		shock = 4
+		manuever = 3
+		siege = 0
+	}
+	set_estate_privilege = estate_nobles_english_villeinage
+}
+
+1445.4.23 = {
+	queen = {
+		country_of_origin = PRO
+		name = "Margaret"
+		dynasty = "d'Anjou"
+		birth_date = 1430.3.23
+		death_date = 1471.4.11
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}

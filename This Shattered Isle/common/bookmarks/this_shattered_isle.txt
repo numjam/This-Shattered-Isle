@@ -1,0 +1,17 @@
+bookmark =
+{
+	name = "THIS_SHATTERED_ISLE"
+	desc = "THIS_SHATTERED_ISLE_DESC"
+	date = 1444.11.11
+	
+	center = 177 #Maine
+	default = yes
+	
+	country = ENG
+	country = NOL
+	country = WLS
+	country = FRA
+	country = AQT
+	country = BUR
+	
+}

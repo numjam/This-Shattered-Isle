@@ -1,0 +1,36 @@
+government = monarchy
+add_government_reform = english_monarchy
+mercantilism = 25
+technology_group = western
+primary_culture = english
+religion = catholic
+capital = 236 # London
+national_focus = DIP
+
+change_estate_land_share = {
+	estate = estate_church
+	share = -10
+}
+change_estate_land_share = {
+	estate = estate_burghers
+	share = -10
+}
+
+#1422.8.31 = { #Succession
+
+change_estate_land_share = { #compensates for lack of nobles, distributes 20 between the remaining estates
+	estate = all
+	share = 20
+}
+
+
+1439.11.6 = { #Coronation
+	monarch = {
+		name = "Lionel I"
+		dynasty = "Mortimer"
+		birth_date = 1403.12.6
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
