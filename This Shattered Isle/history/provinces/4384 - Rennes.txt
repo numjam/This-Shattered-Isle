@@ -12,7 +12,6 @@ base_production = 4
 trade_goods = cloth
 base_manpower = 4
 add_core = BRI
-add_core = FRA #friction
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

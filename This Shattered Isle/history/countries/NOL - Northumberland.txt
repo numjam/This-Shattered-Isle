@@ -10,8 +10,8 @@ capital = 246	# Newcastle
 		name = "Henry II"
 		dynasty = "Percy"
 		birth_date = 1393.3.2
-		adm = 2
-		dip = 2
-		mil = 4
+		adm = 3
+		dip = 1
+		mil = 2
 	}
 }

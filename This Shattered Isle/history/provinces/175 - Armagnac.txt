@@ -12,8 +12,9 @@ base_production = 5
 trade_goods = wool
 base_manpower = 5
 add_local_autonomy = 25
+add_core = FRA
+add_core = AQT
 add_core = AMG
-add_core = GUY
 
 
 

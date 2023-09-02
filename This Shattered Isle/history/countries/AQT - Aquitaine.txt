@@ -1,18 +1,20 @@
 government = monarchy
 add_government_reform = feudalism_reform
 technology_group = western
-primary_culture = gascon
+primary_culture = aquitaine #Anglo-Gascon ITTL
+add_accepted_culture = gascon
+add_accepted_culture = cosmopolitan_french
 religion = catholic
 capital = 174	# Gascogne
 
 1429.11.6 = { #Coronation
 	monarch = {
-		name = "Henry II"
+		name = "Henry VI" #V D Aquitaine, still claims K England and France, thus gov rank
 		dynasty = "Plantagenet"
 		birth_date = 1421.12.6
 		adm = 3
-		dip = 4
-		mil = 3
+		dip = 3
+		mil = 4
 	}
 }
 

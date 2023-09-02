@@ -1,0 +1,21 @@
+name = "Hundred Years War"
+war_goal = {
+	type = take_capital_throne
+	casus_belli = cb_claim_throne
+	tag = FRA
+}
+
+# The Coalition Chevaleresque
+1444.11.11 = {
+	add_attacker = AQT
+	add_attacker = AMG
+	add_attacker = FOI
+	add_attacker = BUR
+	add_attacker = BRI
+	add_defender = FRA
+	add_defender = ORL
+	add_defender = AUV
+	add_defender = BOU
+	add_defender = PRO
+	add_defender = LOR
+}

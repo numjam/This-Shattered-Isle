@@ -2,7 +2,7 @@
  THIS_SHATTERED_ISLE:0 "This Shattered Isle"
  THIS_SHATTERED_ISLE_DESC:0 "“That cloven throne of kings, that shatter’d isle, That jewel pried from the happy crown,\nThat England, that was ruled by noble kings, Hath been torn apart by ignoble dogs.\nAh, but you few that remain true to your King, You few that are not yet so mean and base!\nThey will recall, Bedford and Exeter, Warwick and Talbot, Salisbury and Gloucester,\nAs we today make our kingdom anew, So far from that cursed plot, that England...”\n- King Henry I of Aquitaine’s “Battle of Bergerac Speech”, Robert Shake-speare, the Life of Henry the Exile."
  AQT:0 "Aquitaine"
- AQT_ADJ:0 "Aquitainian"
+ AQT_ADJ:0 "Aquitanian"
  string_start_england:0 "It's so over."
  string_start_northumberland:0 "It's so over."
  string_start_wales:0 "It's so over."
